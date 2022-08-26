@@ -1,5 +1,4 @@
 # Elemental Function Fitter
-#### Video Url
 
 Elemental Function Fitter is a program designed to infer the type of functions and fit given a file of $x,f(x)$ data.
 ## Description
