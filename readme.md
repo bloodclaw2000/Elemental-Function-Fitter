@@ -17,7 +17,7 @@ For an optimization problem, as the fitting of a curve is, there are various way
 
 As we are working on a general function fitter, we have to take into account that in most cases a linealization will not be possible. So we will be focusing on the other alternative.
 
-First, our functions will be written as $y = f_c(x) = F(x,c_1,...c_n)$
+First, our functions will be written as  ![equation](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D%5Cbg%7Bwhite%7Dy%20=%20f_c(x)%20=%20F(x,c_1,...c_n))
 
 We'll be working to minimize the error function:
 
